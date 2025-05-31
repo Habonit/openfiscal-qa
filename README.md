@@ -10,8 +10,8 @@ git clone https://github.com/Habonit/openfiscal-qa
 
 cp .env.example .env
 ```
--.env 파일을 생성한 후, 각자의 환경에 맞게 수정합니다.
--Python 가상환경을 사용합니다. 설치되지 않은 경우 Miniconda 설치를 권장합니다.
+- .env 파일을 생성한 후, 각자의 환경에 맞게 수정합니다.
+- Python 가상환경을 사용합니다. 설치되지 않은 경우 Miniconda 설치를 권장합니다.
 
 ```bash
 conda create -n <가상환경 이름> python=3.11
