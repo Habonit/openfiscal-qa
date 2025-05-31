@@ -1,0 +1,40 @@
+# Core
+pandas
+numpy
+tqdm
+
+# PyTorch + Transformers (GPU 자동 감지)
+torch
+torchvision
+torchaudio
+transformers
+accelerate
+
+# Langchain & Vector Store
+langchain
+langchain-community
+langchain-huggingface
+langchain-chroma
+sentence-transformers
+langchain-openai
+rank_bm25
+
+# Openai
+openai
+
+# Chroma
+chromadb
+pyarrow
+fastparquet
+
+# PDF 처리
+pdfplumber
+pymupdf
+unstructured[pdf]
+unstructured[local-inference]
+unstructured[ocr]
+
+# 기타
+python-dotenv
+ipywidgets
+loguru
